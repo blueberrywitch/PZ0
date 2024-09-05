@@ -1,6 +1,6 @@
 package org.example.service;
 
-import org.example.model.Circle;
+
 import org.example.model.Point;
 import org.example.model.Square;
 
